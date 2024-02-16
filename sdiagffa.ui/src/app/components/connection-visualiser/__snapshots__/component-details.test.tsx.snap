@@ -1,0 +1,1220 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ConnectionDetails component > should render character details 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="
+        absolute top-2 left-2
+        text-sm
+        rounded-md
+        border-2
+        border-swblue dark:border-swyellow
+        max-w-60 min-w-60
+        bg-swgray/90 dark:bg-swblack/90
+      "
+      >
+        <div
+          class="p-2
+        font-semibold
+        text-white dark:text-swblack
+        bg-swblue dark:bg-swyellow
+        flex justify-between items-stretch
+      "
+        >
+          <span>
+            Luke Skywalker
+          </span>
+          <i
+            class="fa fa-user self-center"
+          />
+        </div>
+        <div
+          class="p-2"
+        >
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              type
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              Character
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              gender
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              male
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              birthYear
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              19BBY
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              height
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              172
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              mass
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              77
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              skinColor
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              fair
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              eyeColor
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              blue
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="
+        absolute top-2 left-2
+        text-sm
+        rounded-md
+        border-2
+        border-swblue dark:border-swyellow
+        max-w-60 min-w-60
+        bg-swgray/90 dark:bg-swblack/90
+      "
+    >
+      <div
+        class="p-2
+        font-semibold
+        text-white dark:text-swblack
+        bg-swblue dark:bg-swyellow
+        flex justify-between items-stretch
+      "
+      >
+        <span>
+          Luke Skywalker
+        </span>
+        <i
+          class="fa fa-user self-center"
+        />
+      </div>
+      <div
+        class="p-2"
+      >
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            type
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            Character
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            gender
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            male
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            birthYear
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            19BBY
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            height
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            172
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            mass
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            77
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            skinColor
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            fair
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            eyeColor
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            blue
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`ConnectionDetails component > should render default state 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div />
+  </body>,
+  "container": <div />,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`ConnectionDetails component > should render film details 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="
+        absolute top-2 left-2
+        text-sm
+        rounded-md
+        border-2
+        border-swblue dark:border-swyellow
+        max-w-60 min-w-60
+        bg-swgray/90 dark:bg-swblack/90
+      "
+      >
+        <div
+          class="p-2
+        font-semibold
+        text-white dark:text-swblack
+        bg-swblue dark:bg-swyellow
+        flex justify-between items-stretch
+      "
+        >
+          <span>
+            A New Hope
+          </span>
+          <i
+            class="fa fa-film self-center"
+          />
+        </div>
+        <div
+          class="p-2"
+        >
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              type
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              Film
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              releaseDate
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              1977-05-25
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              episodeId
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              4
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              director
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              George Lucas
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              producer
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              Gary Kurtz, Rick McCallum
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="
+        absolute top-2 left-2
+        text-sm
+        rounded-md
+        border-2
+        border-swblue dark:border-swyellow
+        max-w-60 min-w-60
+        bg-swgray/90 dark:bg-swblack/90
+      "
+    >
+      <div
+        class="p-2
+        font-semibold
+        text-white dark:text-swblack
+        bg-swblue dark:bg-swyellow
+        flex justify-between items-stretch
+      "
+      >
+        <span>
+          A New Hope
+        </span>
+        <i
+          class="fa fa-film self-center"
+        />
+      </div>
+      <div
+        class="p-2"
+      >
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            type
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            Film
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            releaseDate
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            1977-05-25
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            episodeId
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            4
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            director
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            George Lucas
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            producer
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            Gary Kurtz, Rick McCallum
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`ConnectionDetails component > should render planet details 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="
+        absolute top-2 left-2
+        text-sm
+        rounded-md
+        border-2
+        border-swblue dark:border-swyellow
+        max-w-60 min-w-60
+        bg-swgray/90 dark:bg-swblack/90
+      "
+      >
+        <div
+          class="p-2
+        font-semibold
+        text-white dark:text-swblack
+        bg-swblue dark:bg-swyellow
+        flex justify-between items-stretch
+      "
+        >
+          <span>
+            Tatooine
+          </span>
+          <i
+            class="fa fa-globe self-center"
+          />
+        </div>
+        <div
+          class="p-2"
+        >
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              type
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              Homeworld
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              terrain
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              desert
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              climate
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              arid
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              surfaceWater
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              1
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              gravity
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              1 standard
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              population
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              200000
+            </span>
+          </div>
+          <div
+            class="flex"
+          >
+            <label
+              class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+            >
+              diameter
+            </label>
+            <span
+              class="w-1/2
+              capitalize
+              text-black dark:text-white"
+            >
+              10465
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="
+        absolute top-2 left-2
+        text-sm
+        rounded-md
+        border-2
+        border-swblue dark:border-swyellow
+        max-w-60 min-w-60
+        bg-swgray/90 dark:bg-swblack/90
+      "
+    >
+      <div
+        class="p-2
+        font-semibold
+        text-white dark:text-swblack
+        bg-swblue dark:bg-swyellow
+        flex justify-between items-stretch
+      "
+      >
+        <span>
+          Tatooine
+        </span>
+        <i
+          class="fa fa-globe self-center"
+        />
+      </div>
+      <div
+        class="p-2"
+      >
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            type
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            Homeworld
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            terrain
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            desert
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            climate
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            arid
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            surfaceWater
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            1
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            gravity
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            1 standard
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            population
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            200000
+          </span>
+        </div>
+        <div
+          class="flex"
+        >
+          <label
+            class="w-1/2
+              capitalize
+              font-semibold
+              text-swblue dark:text-swyellow"
+          >
+            diameter
+          </label>
+          <span
+            class="w-1/2
+              capitalize
+              text-black dark:text-white"
+          >
+            10465
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`ConnectionDetails component > should render when clicked outside 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div />
+  </body>,
+  "container": <div />,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
